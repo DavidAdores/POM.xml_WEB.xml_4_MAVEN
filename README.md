@@ -1,0 +1,1 @@
+# POM.xml_for_MAVEN_projects
